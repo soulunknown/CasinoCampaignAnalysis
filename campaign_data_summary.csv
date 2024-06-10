@@ -1,0 +1,6 @@
+campaign_type,date,customer_response,revenue_generated,geo_location
+Email,2024-01-01,50,5000.0,New York
+Direct Mail,2024-01-15,30,3000.0,California
+Telemarketing,2024-02-01,70,7000.0,Nevada
+Email,2024-02-15,60,6000.0,Florida
+Direct Mail,2024-03-01,40,4000.0,Texas
